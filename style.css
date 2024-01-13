@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul li{
+    list-style: none;
+    display: inline;
+    padding: 2dvb;
+    margin-left:5px ;
+    align-items: center;
+    margin: 65px;
+    width: 50px;
+    border: 5px inset gray;
+    
+    
+}
+.top {
+    padding: 30px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #FFD700;
+}
+ul li a{
+    text-decoration: none;
+    color: #000000;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.2s ease-in-out;
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: 20px; 
+}
+ul li a:hover{
+    color: #f946468e;
+}
+@font-face {
+    font-family: 'Rocher';
+    src: url(https://assets.codepen.io/9632/RocherColorGX.woff2);
+  }
+  
+.pom1 {
+    font-family: 'Rocher';
+    font-weight: lighter;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(61, 61, 61);
+    }
+.pom2 {
+    font-family: 'Rocher';
+    font-weight: lighter;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(61, 61, 61);
+}
+.pom3 {
+    font-family: 'Rocher';
+    font-weight: lighter;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(61, 61, 61);
+}
+.pom4 {
+    font-family: 'Rocher';
+    font-weight: lighter;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(61, 61, 61);
+}
+.pom5 {
+    font-family: 'Rocher';
+    font-weight: lighter;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(61, 61, 61);
+}
+
+.center {
+    background-color: rgba(128, 142, 77, 0.361);
+    padding: 5px;
+}
+p {
+    text-align: center;
+    margin-left: 130px ;
+    margin-right: 130px ;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow',fantasy, sans-serif;
+}
